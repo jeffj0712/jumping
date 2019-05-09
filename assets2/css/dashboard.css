@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.casegreen{background-color:#82B874; color:#FFF; font-weight:bolder;  border-style:outset; border-width:medium; border-color:#039;padding: 10px 10px 10px 10px; border-radius:10px; margin-bottom:20px}
+.casegreen2{background-color:#5C7185; color:#FFF; font-weight:bolder;  border-style:outset; border-width:medium; border-color:#039;padding: 10px 10px 10px 10px; border-radius:10px; margin-bottom:20px}
+.casegreen3{background-color:#292929; color:#FFF; font-weight:bolder;  border-style:outset; border-width:medium; border-color:#039;padding: 10px 10px 10px 10px; border-radius:10px; margin-bottom:20px}
+.casespan{ background-color:#666; border-bottom-style: solid; border-right-style:solid; border-color:#00F; border-radius:5px; padding:4px 4px 4px 4px; margin-left:20px; overflow: hidden}
+.casespan2{ }
+.mybtn{ padding: 5px 5px 5px 5px; border-style:outset; border-color:#21991E; border-width:medium; color:#FFF; font-weight:bolder; border-radius: 7px;}
+.mybtn-blue{ background-color:#009}
+.mybtn-sblue{ background-color:#8991EB}
+.mybtn-green{ background-color:#090}
+.mybtn-red{ background-color:#F00}
+.mystatuspay{background-color:#BBFDFB; color:#333; font-size:9px; border-style:solid; border-width:thin; border-color:#21991E; border-radius:3px; padding:5px 5px 5px 5px; margin-top: 10px; margin-bottom:10px}
+.dommie{display:none; width:100%; height:100%; top:0%; position: fixed; background:#395352;opacity:0.6; z-index:1999; }
+.dommie span{
+	position:relative; display:block; top:40%; background-color:black;  text-align:center; color: #FFFFFF; font-size:15px; font-weight:bolder; 
+}
+.modalhead{background-color:#21991E; color:#666; font-weight:bolder; padding:10px 10px 10px 10px; border-radius: 10px;}
+.mybtn2{ background-color:#21991E; min-width:50%; text-align:center; padding: 10px 10px 10px 10px; border-style:outset; border-color:#009; border-width: medium; color:#00C; font-weight:bolder; border-radius: 7px;}
+.mybtn2:focus, .mybtn2:hover{background-color:#999}
+
+.mybtn4{ background-color:#21991E; min-width:20%; text-align:center; padding: 10px 10px 10px 10px; border-style:outset; border-color:#009; border-width: medium; color:#00C; font-weight:bolder; border-radius: 7px;}
+.mybtn4:focus, .mybtn4:hover{background-color: transparent}
+
+
+.mybtn3{ display:inline-block; background-color:#21991E; text-align:center; padding: 10px 10px 10px 10px; border-style:outset; border-color:#009; border-width: medium; color:#00C; font-weight:bolder; border-radius: 7px; margin-top:10px}
+.mybtn3:focus, .mybtn3:hover{background-color:#999}
+
+.mystatus{background-color:#CCC; padding: 10px 10px 10px 10px; border-style:outset; border-color:#21991E; border-width: medium; color:#000; font-size:10px; font-weight:bolder; border-bottom-right-radius: 7px; margin-top:10px}
+
+.dashboarddiv{ font-weight:bolder; color:#21991E; font-size:30px}
